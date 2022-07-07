@@ -35,7 +35,8 @@ passing_2021 = {
 }
 
 # Use the Len and Sum functions to verify all 32 teams are in the dictionary and to see the Total Passing Yards for 2021
-print('2021 Total Regular Season Passing Yards of all', len(passing_2021), 'NFL Teams:', sum(passing_2021.values()))
+r = "{:,}".format(sum(passing_2021.values()))
+print('2021 Total Regular Season Passing Yards of all', len(passing_2021), 'NFL Teams:', r)
 
 
 # Create a Dictionary with 2020 Total Passing Yards data
@@ -75,7 +76,8 @@ passing_2020 = {
 }
 
 # Use the Len and Sum functions to verify all 32 teams are in the dictionary and to see the Total Passing Yards for 2020
-print('2020 Total Regular Season Passing Yards of all', len(passing_2020), 'NFL Teams:', sum(passing_2020.values()))
+q = "{:,}".format(sum(passing_2020.values()))
+print('2020 Total Regular Season Passing Yards of all', len(passing_2020), 'NFL Teams:', q)
 
 
 # Create a Dictionary with 2019 Total Passing Yards data
@@ -115,7 +117,8 @@ passing_2019 = {
 }
 
 # Use the Len and Sum functions to verify all 32 teams are in the dictionary and to see the Total Passing Yards for 2019
-print('2019 Total Regular Season Passing Yards of all', len(passing_2019), 'NFL Teams:', sum(passing_2019.values()))
+p = "{:,}".format(sum(passing_2019.values()))
+print('2019 Total Regular Season Passing Yards of all', len(passing_2019), 'NFL Teams:', p)
 
 
 # Create a Dictionary with 2018 Total Passing Yards data
@@ -155,7 +158,8 @@ passing_2018 = {
 }
 
 # Use the Len and Sum functions to verify all 32 teams are in the dictionary and to see the Total Passing Yards for 2018
-print('2018 Total Regular Season Passing Yards of all', len(passing_2018), 'NFL Teams:', sum(passing_2018.values()))
+o = "{:,}".format(sum(passing_2018.values()))
+print('2018 Total Regular Season Passing Yards of all', len(passing_2018), 'NFL Teams:', o)
 
 
 # Create a Dictionary with 2017 Total Passing Yards data
@@ -195,7 +199,8 @@ passing_2017 = {
 }
 
 # Use the Len and Sum functions to verify all 32 teams are in the dictionary and to see the Total Passing Yards for 2017
-print('2017 Total Regular Season Passing Yards of all', len(passing_2017), 'NFL Teams:', sum(passing_2017.values()))
+n = "{:,}".format(sum(passing_2017.values()))
+print('2017 Total Regular Season Passing Yards of all', len(passing_2017), 'NFL Teams:', n)
 
 
 # Create a Dictionary with 2016 Total Passing Yards data
@@ -235,7 +240,8 @@ passing_2016 = {
 }
 
 # Use the Len and Sum functions to verify all 32 teams are in the dictionary and to see the Total Passing Yards for 2016
-print('2016 Total Regular Season Passing Yards of all', len(passing_2016), 'NFL Teams:', sum(passing_2016.values()))
+m = "{:,}".format(sum(passing_2016.values()))
+print('2016 Total Regular Season Passing Yards of all', len(passing_2016), 'NFL Teams:', m)
 
 
 # Create a Dictionary with 2015 Total Passing Yards data
@@ -275,7 +281,8 @@ passing_2015 = {
 }
 
 # Use the Len and Sum functions to verify all 32 teams are in the dictionary and to see the Total Passing Yards for 2015
-print('2015 Total Regular Season Passing Yards of all', len(passing_2015), 'NFL Teams:', sum(passing_2015.values()))
+l = "{:,}".format(sum(passing_2015.values()))
+print('2015 Total Regular Season Passing Yards of all', len(passing_2015), 'NFL Teams:', l)
 
 
 # Create a Dictionary with 2014 Total Passing Yards data
@@ -315,7 +322,8 @@ passing_2014 = {
 }
 
 # Use the Len and Sum functions to verify all 32 teams are in the dictionary and to see the Total Passing Yards for 2014
-print('2014 Total Regular Season Passing Yards of all', len(passing_2014), 'NFL Teams:', sum(passing_2014.values()))
+k = "{:,}".format(sum(passing_2014.values()))
+print('2014 Total Regular Season Passing Yards of all', len(passing_2014), 'NFL Teams:', k)
 
 
 # Create a Dictionary with 2013 Total Passing Yards data
@@ -355,7 +363,8 @@ passing_2013 = {
 }
 
 # Use the Len and Sum functions to verify all 32 teams are in the dictionary and to see the Total Passing Yards for 2013
-print('2013 Total Regular Season Passing Yards of all', len(passing_2013), 'NFL Teams:', sum(passing_2013.values()))
+j = "{:,}".format(sum(passing_2013.values()))
+print('2013 Total Regular Season Passing Yards of all', len(passing_2013), 'NFL Teams:', j)
 
 
 # Create a Dictionary with 2012 Total Passing Yards data
@@ -395,7 +404,8 @@ passing_2012 = {
 }
 
 # Use the Len and Sum functions to verify all 32 teams are in the dictionary and to see the Total Passing Yards for 2012
-print('2012 Total Regular Season Passing Yards of all', len(passing_2012), 'NFL Teams:', sum(passing_2012.values()))
+i = "{:,}".format(sum(passing_2012.values()))
+print('2012 Total Regular Season Passing Yards of all', len(passing_2012), 'NFL Teams:', i)
 
 
 # Create a Dictionary with 2011 Total Passing Yards data
@@ -435,7 +445,8 @@ passing_2011 = {
 }
 
 # Use the Len and Sum functions to verify all 32 teams are in the dictionary and to see the Total Passing Yards for 2011
-print('2011 Total Regular Season Passing Yards of all', len(passing_2011), 'NFL Teams:', sum(passing_2011.values()))
+h = "{:,}".format(sum(passing_2011.values()))
+print('2011 Total Regular Season Passing Yards of all', len(passing_2011), 'NFL Teams:', h)
 
 
 # Create a Dictionary with 2010 Total Passing Yards data
@@ -475,7 +486,8 @@ passing_2010 = {
 }
 
 # Use the Len and Sum functions to verify all 32 teams are in the dictionary and to see the Total Passing Yards for 2010
-print('2010 Total Regular Season Passing Yards of all', len(passing_2010), 'NFL Teams:', sum(passing_2010.values()))
+g = "{:,}".format(sum(passing_2010.values()))
+print('2010 Total Regular Season Passing Yards of all', len(passing_2010), 'NFL Teams:', g)
 
 
 # Create a Dictionary with 2009 Total Passing Yards data
@@ -515,7 +527,8 @@ passing_2009 = {
 }
 
 # Use the Len and Sum functions to verify all 32 teams are in the dictionary and to see the Total Passing Yards for 2009
-print('2009 Total Regular Season Passing Yards of all', len(passing_2009), 'NFL Teams:', sum(passing_2009.values()))
+f = "{:,}".format(sum(passing_2009.values()))
+print('2009 Total Regular Season Passing Yards of all', len(passing_2009), 'NFL Teams:', f)
 
 
 # Create a Dictionary with 2008 Total Passing Yards data
@@ -555,7 +568,8 @@ passing_2008 = {
 }
 
 # Use the Len and Sum functions to verify all 32 teams are in the dictionary and to see the Total Passing Yards for 2008
-print('2008 Total Regular Season Passing Yards of all', len(passing_2008), 'NFL Teams:', sum(passing_2008.values()))
+e = "{:,}".format(sum(passing_2008.values()))
+print('2008 Total Regular Season Passing Yards of all', len(passing_2008), 'NFL Teams:', e)
 
 
 # Create a Dictionary with 2007 Total Passing Yards data
@@ -595,7 +609,8 @@ passing_2007 = {
 }
 
 # Use the Len and Sum functions to verify all 32 teams are in the dictionary and to see the Total Passing Yards for 2007
-print('2007 Total Regular Season Passing Yards of all', len(passing_2007), 'NFL Teams:', sum(passing_2007.values()))
+d = "{:,}".format(sum(passing_2007.values()))
+print('2007 Total Regular Season Passing Yards of all', len(passing_2007), 'NFL Teams:', d)
 
 
 # Create a Dictionary with 2006 Total Passing Yards data
@@ -635,7 +650,8 @@ passing_2006 = {
 }
 
 # Use the Len and Sum functions to verify all 32 teams are in the dictionary and to see the Total Passing Yards for 2006
-print('2006 Total Regular Season Passing Yards of all', len(passing_2006), 'NFL Teams:', sum(passing_2006.values()))
+c = "{:,}".format(sum(passing_2006.values()))
+print('2006 Total Regular Season Passing Yards of all', len(passing_2006), 'NFL Teams:', c)
 
 
 # Create a Dictionary with 2005 Total Passing Yards data
@@ -675,7 +691,8 @@ passing_2005 = {
 }
 
 # Use the Len and Sum functions to verify all 32 teams are in the dictionary and to see the Total Passing Yards for 2005
-print('2005 Total Regular Season Passing Yards of all', len(passing_2005), 'NFL Teams:', sum(passing_2005.values()))
+b = "{:,}".format(sum(passing_2005.values()))
+print('2005 Total Regular Season Passing Yards of all', len(passing_2005), 'NFL Teams:', b)
 
 
 # Create a Dictionary with 2004 Total Passing Yards data
@@ -715,5 +732,5 @@ passing_2004 = {
 }
 
 # Use the Len and Sum functions to verify all 32 teams are in the dictionary and to see the Total Passing Yards for 2004
-print('2004 Total Regular Season Passing Yards of all', len(passing_2004), 'NFL Teams:', sum(passing_2004.values()))
-
+a = "{:,}".format(sum(passing_2004.values()))
+print('2004 Total Regular Season Passing Yards of all', len(passing_2004), 'NFL Teams:', a)
