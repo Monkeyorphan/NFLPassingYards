@@ -1,3 +1,5 @@
+For this project, I will input/import NFL Offense statistical data. The data will be manipulated, cleaned, analyzed, and visualized to show how the game has changed over the years.
+
 Requirement 1: Read Data In - There are many ways to read data to be analyzed. I first, created dictionaries of data from (https://www.espn.com/nfl/stats/team/_/stat/passing/table/passing/sort/netPassingYards/dir/desc), and then modified & exported data from https://www.pro-football-reference.com/, saving it to two separate CSV files.
 
 Requirement 2: Manipulate and Clean Your Data - I used pandas functions to rename and delete data columns in the CSV, fill in all nan values with zeros in the data, and convert the data to integers. I also formatted the dictionary data to add commas in the thousands place.
